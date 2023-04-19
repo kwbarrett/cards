@@ -24,6 +24,12 @@ export class AppComponent {
       imageURL:     'assets/biking.jpeg',
       username:     'biking1222',
       content:      'I did some biking today'
+    },
+    { 
+      title:        'Mountain Biking',
+      imageURL:     'assets/biking.jpeg',
+      username:     'biking1222',
+      content:      'I did some biking today'
     }
   ]
 }
